@@ -1,6 +1,6 @@
 # Project Data Analysis for Finance: Branch Performances in R PART-1
 
-## > BACKGROUND ──
+### > BACKGROUND ──
 
 <sup><b>DQLab</b></sup> Project, illustrating about a finance company that distributes financing to the community through branches of its company spread across various regions, there are agents in charge of finding and listing potential partners who will apply for loans to the company.
 
@@ -8,7 +8,7 @@ this <b>project focuses on the performance of each branch of the company.</b>
 
 
 
-## A SIMPLE GUIDE STEP-BY-STEP DATASET PROCESSING (1) ──
+### > A SIMPLE GUIDE STEP-BY-STEP DATASET PROCESSING (1) ──
 
 #### →   filtering the dataset, focused on the May 2020 time period
 
@@ -20,9 +20,9 @@ this <b>project focuses on the performance of each branch of the company.</b>
 
 
 
-## > IMPLEMENTATION R PACKAGES ──
+### > IMPLEMENTATION R PACKAGES ──
 
-#### ⋈ DPLYR ─ suitable for data manipulating & analytic
+#### ⋈ Package DPLYR ─ suitable for data manipulating & analytic
 
 * `select()`    ⍽ variable selection
 
@@ -34,11 +34,11 @@ this <b>project focuses on the performance of each branch of the company.</b>
 						
 * `arrange()`   ⍽ variable arrangement based on it values
 
-#### ⋈ GGPLOT2 ─ suitable for data visualization using plot function
+#### ⋈ Package GGPLOT2 ─ suitable for data visualization using plot function
 
             	⌐ syntax :> ggplot(data) + geom_type(aes(x,y,fill,color)) 
 
-#### ⋈ SCALES ─ suitable for supporting the process of data exploration
+#### ⋈ Package SCALES ─ suitable for supporting the process of data exploration
 
 * `comma()`   ⍽ variable format conversion (numerical format + separators)
 						
@@ -46,9 +46,9 @@ this <b>project focuses on the performance of each branch of the company.</b>
 
 
 
-## > LOAN DISBURSEMENT DATASET ──
+### > LOAN DISBURSEMENT DATASET ──
 
-### ⋈ Load <sup><b>DQLab</b></sup> Dataset ::
+#### ⋈ Load <sup><b>DQLab</b></sup> Dataset ::
 
 			⌐ df_loan <- read.csv('https://dqlab-dataset.s3-ap-southeast-1.amazonaws.com/loan_disbursement.csv', stringsAsFactors = F)
 	
