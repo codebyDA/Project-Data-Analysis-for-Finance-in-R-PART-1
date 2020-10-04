@@ -22,7 +22,7 @@ this <b>project focuses on the performance of each branch of the company.</b>
 
 ## > IMPLEMENTATION R PACKAGES ──
 
-### ⋈ DPLYR ─ suitable for data manipulating & analytic
+#### ⋈ DPLYR ─ suitable for data manipulating & analytic
 
 * `select()`    ⍽ variable selection
 
@@ -34,11 +34,11 @@ this <b>project focuses on the performance of each branch of the company.</b>
 						
 * `arrange()`   ⍽ variable arrangement based on it values
 
-### ⋈ GGPLOT2 ─ suitable for data visualization using plot function
+#### ⋈ GGPLOT2 ─ suitable for data visualization using plot function
 
             	⌐ syntax :> ggplot(data) + geom_type(aes(x,y,fill,color)) 
 
-### ⋈ SCALES ─ suitable for supporting the process of data exploration
+#### ⋈ SCALES ─ suitable for supporting the process of data exploration
 
 * `comma()`   ⍽ variable format conversion (numerical format + separators)
 						
