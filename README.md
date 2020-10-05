@@ -61,5 +61,3 @@ this <b>project focuses on the performance of each branch of the company.</b>
 #### ⋈ R Vers. 4.0.2
 
 #### ⋈ Rstudio Vers. 1.3.1073
-
-───────────────────────────────────────────────────────────────────────────────────
