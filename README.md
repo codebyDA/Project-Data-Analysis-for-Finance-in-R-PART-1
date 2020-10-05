@@ -10,13 +10,13 @@ this <b>project focuses on the performance of each branch of the company.</b>
 
 ### > A SIMPLE GUIDE STEP-BY-STEP DATASET PROCESSING (1) ──
 
-#### →   filtering the dataset, focused on the May 2020 time period
+#### →   Filtering the dataset, focused on the May 2020 time period
 
 #### →   Create a summary per branch to see the best and worst five branches of data
 
-#### →   As branches increase each month, it is necessary to check the age & performance each of it</h4>
+#### →   As branches increase each month, it is necessary to check the age & performance each of it
 
-#### →   Looking for the worst branches for each age group</h4>
+#### →   Looking for the worst branches for each age group
 
 
 
